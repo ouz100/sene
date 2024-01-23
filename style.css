@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #262626;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f1f1f1;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.vwMoitie{
+    height: 200px;
+    width: 50vw;
+    background: crimson;
+}
+.percParent {
+    width: 500px;
+}
+.percMoitie{
+    height: 200px;
+    width: 50%;
+    background: crimson;
+}
+.pixelMoitie {
+    height: 200px;
+    width: 200px;
+    background: crimson;
+    margin-top: 15px;
+}
+.vhUnit{
+    height: 25vh;
+    width: 80px;
+    background: crimson;
+    margin-top: 15px;
+}
